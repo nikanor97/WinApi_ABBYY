@@ -1,2 +1,2 @@
 # WinApi_ABBYY
-Code devotd to the WinApi course
+Code devoted to the WinApi course
