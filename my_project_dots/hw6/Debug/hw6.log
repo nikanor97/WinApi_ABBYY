@@ -1,0 +1,4 @@
+﻿  Settings.cpp
+c:\users\nikan\documents\visual studio 2017\mysolutions\my_project_dots\hw6\overlappedwindow.h(20): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\nikan\documents\visual studio 2017\mysolutions\my_project_dots\hw6\overlappedwindow.h(26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  hw6.vcxproj -> C:\Users\nikan\Documents\Visual Studio 2017\mySolutions\my_project_dots\Debug\hw6.exe
